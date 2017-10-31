@@ -1,2 +1,4 @@
 # hello-world
-Python "hello world" program
+# Python "hello world" program
+
+print "Hello World"
